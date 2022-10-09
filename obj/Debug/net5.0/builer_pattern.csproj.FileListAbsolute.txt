@@ -1,0 +1,16 @@
+D:\Projects\builer_pattern\bin\Debug\net5.0\builer_pattern.exe
+D:\Projects\builer_pattern\bin\Debug\net5.0\builer_pattern.deps.json
+D:\Projects\builer_pattern\bin\Debug\net5.0\builer_pattern.runtimeconfig.json
+D:\Projects\builer_pattern\bin\Debug\net5.0\builer_pattern.runtimeconfig.dev.json
+D:\Projects\builer_pattern\bin\Debug\net5.0\builer_pattern.dll
+D:\Projects\builer_pattern\bin\Debug\net5.0\ref\builer_pattern.dll
+D:\Projects\builer_pattern\bin\Debug\net5.0\builer_pattern.pdb
+D:\Projects\builer_pattern\obj\Debug\net5.0\builer_pattern.csproj.AssemblyReference.cache
+D:\Projects\builer_pattern\obj\Debug\net5.0\builer_pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\builer_pattern\obj\Debug\net5.0\builer_pattern.AssemblyInfoInputs.cache
+D:\Projects\builer_pattern\obj\Debug\net5.0\builer_pattern.AssemblyInfo.cs
+D:\Projects\builer_pattern\obj\Debug\net5.0\builer_pattern.csproj.CoreCompileInputs.cache
+D:\Projects\builer_pattern\obj\Debug\net5.0\builer_pattern.dll
+D:\Projects\builer_pattern\obj\Debug\net5.0\ref\builer_pattern.dll
+D:\Projects\builer_pattern\obj\Debug\net5.0\builer_pattern.pdb
+D:\Projects\builer_pattern\obj\Debug\net5.0\builer_pattern.genruntimeconfig.cache
